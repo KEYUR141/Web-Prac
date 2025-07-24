@@ -8,16 +8,16 @@
   <tr>
     <td align="center" valign="top" width="400">
       <img src="https://github.com/KEYUR141.png" width="320" height="320" style="border-radius:50%;border:4px solid #fff;box-shadow:0 4px 24px rgba(0,0,0,0.15);" alt="Alex Johnson"/><br>
-      <strong style="font-size:1.6em;">Alex Johnson</strong><br>
+      <strong style="font-size:1.6em;">AKshat Sahay</strong><br>
       <span style="font-size:1.1em;color:#444;">
-        Lead Designer passionate about user experience and digital illustration.
+        Frontend Developer
       </span>
     </td>
     <td align="center" valign="top" width="400">
-      <img src="https://randomuser.me/api/portraits/women/44.jpg" width="320" height="320" style="border-radius:50%;border:4px solid #fff;box-shadow:0 4px 24px rgba(0,0,0,0.15);" alt="Maria Smith"/><br>
-      <strong style="font-size:1.6em;">Maria Smith</strong><br>
+      <img src="https://github.com/KEYUR141.png" width="320" height="320" style="border-radius:50%;border:4px solid #fff;box-shadow:0 4px 24px rgba(0,0,0,0.15);" alt="Maria Smith"/><br>
+      <strong style="font-size:1.6em;">Keyur Sherke</strong><br>
       <span style="font-size:1.1em;color:#444;">
-        Senior Developer focused on modern web technologies and scalable architectures.
+       Backend Developer
       </span>
     </td>
   </tr>
