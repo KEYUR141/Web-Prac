@@ -25,7 +25,4 @@
 
 ---
 
-**Tips to keep images sharp and not blurry:**
-- Use high-resolution images (at least as large as the display size, e.g., 320x320px or 400x400px).
-- SVG avatars are best for infinite crispness.
-- If your images are blurry, upload larger images or use vector graphics.
+
