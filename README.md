@@ -8,7 +8,7 @@
   <tr>
     <td align="center" valign="top" width="400">
       <img src="https://github.com/akshatsahay21.png" width="320" height="320" style="border-radius:50%;border:4px solid #fff;box-shadow:0 4px 24px rgba(0,0,0,0.15);" alt="Alex Johnson"/><br>
-      <strong style="font-size:1.6em;">AKshat Sahay</strong><br>
+      <strong style="font-size:1.6em;">Akshat Sahay</strong><br>
       <span style="font-size:1.1em;color:#444;">
         Frontend Developer
       </span>
